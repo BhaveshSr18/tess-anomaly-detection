@@ -405,9 +405,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{tess_anomaly_2026,
   title={TESS Anomaly Detection Pipeline: Unsupervised Discovery of Rare Stellar Variability},
-  author={Your Name},
+  author={Bhavesh Srivastava},
   year={2026},
-  url={https://github.com/YOUR_USERNAME/tess-anomaly-detection},
+  url={https://github.com/BhaveshSr18/Astro-Project},
   note={Complete end-to-end analysis pipeline with publication-grade results}
 }
 ```
@@ -463,7 +463,7 @@ A: Yes, modify cells in SECTION 2. All hyperparameters are documented there.
 
 - **GitHub Issues:** For bug reports and feature requests
 - **Discussions:** For questions and scientific collaboration
-- **Email:** [Your email]
+- **Email:** [bahvesh.srivastava59@gmail.com]
 
 ---
 
