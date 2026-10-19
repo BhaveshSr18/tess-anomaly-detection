@@ -32,7 +32,7 @@ Have a feature idea? Open an issue with:
 ```bash
 git clone https://github.com/BhaveshSr18/tess-anomaly-detection.git
 cd tess-anomaly-detection
-git remote add upstream https://github.com/ORIGINAL_OWNER/tess-anomaly-detection.git
+git remote add upstream https://github.com/BhaveshSr18/tess-anomaly-detection.git
 ```
 
 #### Create a Feature Branch
