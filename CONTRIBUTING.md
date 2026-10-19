@@ -30,7 +30,7 @@ Have a feature idea? Open an issue with:
 
 #### Fork and Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/tess-anomaly-detection.git
+git clone https://github.com/BhaveshSr18/tess-anomaly-detection.git
 cd tess-anomaly-detection
 git remote add upstream https://github.com/ORIGINAL_OWNER/tess-anomaly-detection.git
 ```

@@ -57,7 +57,7 @@ This project presents a complete end-to-end pipeline for detecting anomalous ste
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tess-anomaly-detection.git
+git clone https://github.com/BhaveshSr18/tess-anomaly-detection.git
 cd tess-anomaly-detection
 
 # Create virtual environment
